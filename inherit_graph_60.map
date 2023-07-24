@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classcbdc_1_1rpc_1_1server.html" title="Generic RPC server." alt="" coords="5,85,148,141"/>
+<area shape="rect" id="Node000001" href="$classcbdc_1_1rpc_1_1blocking__server.html" title=" " alt="" coords="223,165,370,251"/>
+<area shape="poly" id="edge14_Node000000_Node000001" title=" " alt="" coords="157,145,224,174,222,179,155,150"/>
+<area shape="rect" id="Node000006" href="$classcbdc_1_1rpc_1_1async__server.html" title="Generic asynchronous RPC server." alt="" coords="196,85,397,141"/>
+<area shape="poly" id="edge16_Node000000_Node000006" title=" " alt="" coords="162,111,195,111,195,116,162,116"/>
+<area shape="rect" id="Node000008" href="$classcbdc_1_1rpc_1_1blocking__server.html" title="Generic synchronous RPC server." alt="" coords="200,5,393,61"/>
+<area shape="poly" id="edge18_Node000000_Node000008" title=" " alt="" coords="160,80,217,59,219,64,162,85"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1locking__shard_1_1state__machine.html" title="Raft state machine for handling locking shard RPC requests." alt="" coords="448,192,583,232"/>
+<area shape="poly" id="edge15_Node000001_Node000002" title=" " alt="" coords="384,207,447,208,447,213,384,212"/>
+<area shape="rect" id="Node000007" href="$classcbdc_1_1raft_1_1rpc_1_1server.html" title="Generic RPC server for raft nodes for which the replicated state machine handles the request processi..." alt="" coords="445,100,585,126"/>
+<area shape="poly" id="edge17_Node000006_Node000007" title=" " alt="" coords="412,111,445,111,445,116,412,116"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="224,275,369,301"/>
+<area shape="poly" id="edge21_Node000003_Node000002" title=" " alt="" coords="370,268,396,260,469,230,471,235,398,265,372,273"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1atomizer_1_1state__machine.html" title="Raft state machine for managing a replicated atomizer." alt="" coords="446,264,585,304"/>
+<area shape="poly" id="edge19_Node000003_Node000004" title=" " alt="" coords="384,284,445,282,445,288,384,289"/>
+<area shape="rect" id="Node000005" href="$classcbdc_1_1coordinator_1_1state__machine.html" title="Raft state machine for managing a replicated coordinator." alt="" coords="453,329,578,370"/>
+<area shape="poly" id="edge20_Node000003_Node000005" title=" " alt="" coords="360,303,453,329,451,334,358,308"/>
+</map>

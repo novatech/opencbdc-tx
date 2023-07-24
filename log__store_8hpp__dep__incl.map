@@ -1,0 +1,87 @@
+<map id="log_store.hpp" name="log_store.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="989,5,1087,31"/>
+<area shape="rect" id="Node000002" href="$log__store_8cpp.html" title=" " alt="" coords="902,79,1001,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1014,43,968,81,964,77,1011,39"/>
+<area shape="rect" id="Node000003" href="$state__manager_8cpp.html" title=" " alt="" coords="973,153,1104,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1041,46,1041,152,1036,152,1036,46"/>
+<area shape="rect" id="Node000004" href="$state__manager_8hpp.html" title=" " alt="" coords="1075,79,1207,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1069,37,1125,76,1122,81,1066,42"/>
+<area shape="poly" id="edge49_Node000004_Node000003" title=" " alt="" coords="1113,115,1057,154,1054,150,1110,111"/>
+<area shape="rect" id="Node000005" href="$atomizer__raft_8hpp.html" title=" " alt="" coords="910,226,1030,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1142,120,1134,151,1118,180,1099,197,1077,210,1032,228,1030,223,1075,206,1095,193,1113,177,1129,149,1136,119"/>
+<area shape="rect" id="Node000022" href="$node_8hpp.html" title=" " alt="" coords="1350,153,1423,178"/>
+<area shape="poly" id="edge28_Node000004_Node000022" title=" " alt="" coords="1197,107,1350,151,1348,156,1196,112"/>
+<area shape="rect" id="Node000006" href="$atomizer__raft_8cpp.html" title=" " alt="" coords="1142,374,1262,399"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1003,258,1184,371,1182,375,1000,262"/>
+<area shape="rect" id="Node000007" href="$atomizer_2atomizer_2controller_8cpp.html" title=" " alt="" coords="154,374,253,399"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="896,254,601,303,408,342,253,376,252,371,407,337,600,297,895,249"/>
+<area shape="rect" id="Node000008" href="$atomizer_2shard_2controller_8cpp.html" title=" " alt="" coords="1214,521,1313,547"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1045,247,1105,262,1169,286,1200,302,1229,322,1255,345,1276,372,1286,391,1290,412,1290,454,1281,493,1271,521,1266,520,1276,491,1285,454,1285,413,1281,393,1272,375,1251,349,1226,326,1197,306,1167,290,1103,267,1044,253"/>
+<area shape="rect" id="Node000009" href="$atomizer_2atomizer_2controller_8hpp.html" title=" " alt="" coords="154,300,253,326"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="896,250,321,303,253,309,253,304,321,297,895,245"/>
+<area shape="rect" id="Node000011" href="$uhs_2atomizer_2atomizer_2format_8cpp.html" title=" " alt="" coords="277,374,359,399"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="902,258,360,379,359,373,901,253"/>
+<area shape="rect" id="Node000012" href="$uhs_2atomizer_2atomizer_2format_8hpp.html" title=" " alt="" coords="722,300,805,326"/>
+<area shape="poly" id="edge12_Node000005_Node000012" title=" " alt="" coords="922,260,800,302,798,297,921,255"/>
+<area shape="rect" id="Node000017" href="$shard_8hpp.html" title="Shard core functionality." alt="" coords="886,374,964,399"/>
+<area shape="poly" id="edge26_Node000005_Node000017" title=" " alt="" coords="965,267,931,374,926,372,960,266"/>
+<area shape="rect" id="Node000021" href="$atomizer_2atomizer_2state__machine_8cpp.html" title=" " alt="" coords="988,374,1118,399"/>
+<area shape="poly" id="edge27_Node000005_Node000021" title=" " alt="" coords="987,264,1048,372,1044,374,982,266"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="206,340,206,373,201,373,201,340"/>
+<area shape="rect" id="Node000010" href="$atomizer-raftd_8cpp.html" title=" " alt="" coords="5,374,130,399"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="169,335,92,375,89,371,167,330"/>
+<area shape="poly" id="edge14_Node000012_Node000006" title=" " alt="" coords="820,321,1142,373,1141,378,819,326"/>
+<area shape="poly" id="edge17_Node000012_Node000007" title=" " alt="" coords="708,322,512,344,265,376,253,378,253,373,264,371,511,338,707,317"/>
+<area shape="poly" id="edge19_Node000012_Node000011" title=" " alt="" coords="708,324,556,346,372,376,360,379,359,373,371,371,555,341,707,319"/>
+<area shape="rect" id="Node000013" href="$atomizer__client_8cpp.html" title=" " alt="" coords="507,374,639,399"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="719,334,606,376,604,371,717,329"/>
+<area shape="rect" id="Node000014" href="$atomizer_2archiver_2client_8cpp.html" title=" " alt="" coords="663,374,739,399"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="746,338,713,375,709,371,742,335"/>
+<area shape="rect" id="Node000015" href="$atomizer_2archiver_2controller_8cpp.html" title=" " alt="" coords="764,374,862,399"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="782,336,807,372,802,375,778,339"/>
+<area shape="rect" id="Node000016" href="$atomizer_2watchtower_2controller_8cpp.html" title=" " alt="" coords="384,374,482,399"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="709,329,483,377,482,372,707,323"/>
+<area shape="poly" id="edge20_Node000012_Node000017" title=" " alt="" coords="805,330,898,371,896,376,803,334"/>
+<area shape="poly" id="edge25_Node000012_Node000021" title=" " alt="" coords="820,325,1004,371,1003,376,818,330"/>
+<area shape="rect" id="Node000018" href="$atomizer_2shard_2controller_8hpp.html" title=" " alt="" coords="1061,447,1159,473"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="971,403,1080,444,1078,449,969,408"/>
+<area shape="rect" id="Node000020" href="$shard_8cpp.html" title=" " alt="" coords="886,447,964,473"/>
+<area shape="poly" id="edge24_Node000017_Node000020" title=" " alt="" coords="928,414,928,447,922,447,922,414"/>
+<area shape="poly" id="edge22_Node000018_Node000008" title=" " alt="" coords="1150,477,1238,518,1236,523,1148,482"/>
+<area shape="rect" id="Node000019" href="$shardd_8cpp.html" title=" " alt="" coords="1068,521,1152,547"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="1113,488,1113,521,1108,521,1108,488"/>
+<area shape="poly" id="edge29_Node000022_Node000005" title=" " alt="" coords="1335,178,1031,230,1030,225,1334,173"/>
+<area shape="rect" id="Node000023" href="$twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="1697,300,1795,326"/>
+<area shape="poly" id="edge30_Node000022_Node000023" title=" " alt="" coords="1438,169,1580,189,1648,204,1696,224,1714,241,1728,261,1745,298,1740,300,1723,264,1710,245,1693,229,1647,210,1579,194,1437,174"/>
+<area shape="rect" id="Node000030" href="$twophase_2locking__shard_2controller_8hpp.html" title=" " alt="" coords="1337,300,1435,326"/>
+<area shape="poly" id="edge40_Node000022_Node000030" title=" " alt="" coords="1356,189,1337,206,1323,227,1322,247,1332,267,1348,284,1367,297,1364,302,1345,288,1327,270,1316,248,1318,225,1333,203,1353,185"/>
+<area shape="rect" id="Node000033" href="$distributed__tx_8hpp.html" title=" " alt="" coords="1560,226,1682,252"/>
+<area shape="poly" id="edge43_Node000022_Node000033" title=" " alt="" coords="1438,180,1581,223,1580,228,1436,185"/>
+<area shape="rect" id="Node000035" href="$node_8cpp.html" title=" " alt="" coords="1463,226,1536,252"/>
+<area shape="poly" id="edge46_Node000022_Node000035" title=" " alt="" coords="1419,184,1482,223,1479,228,1416,189"/>
+<area shape="rect" id="Node000036" href="$rpc__server_8hpp.html" title=" " alt="" coords="1333,226,1439,252"/>
+<area shape="poly" id="edge47_Node000022_Node000036" title=" " alt="" coords="1389,193,1389,226,1384,226,1384,193"/>
+<area shape="rect" id="Node000024" href="$twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="1601,447,1699,473"/>
+<area shape="poly" id="edge31_Node000023_Node000024" title=" " alt="" coords="1703,335,1677,352,1658,375,1651,393,1648,412,1650,447,1645,447,1643,412,1646,392,1653,372,1674,348,1700,331"/>
+<area shape="rect" id="Node000025" href="$coordinatord_8cpp.html" title=" " alt="" coords="1668,374,1784,399"/>
+<area shape="poly" id="edge32_Node000023_Node000025" title=" " alt="" coords="1741,341,1732,374,1727,372,1736,339"/>
+<area shape="rect" id="Node000026" href="$uhs_2twophase_2coordinator_2format_8cpp.html" title=" " alt="" coords="1745,447,1827,473"/>
+<area shape="poly" id="edge33_Node000023_Node000026" title=" " alt="" coords="1773,334,1788,352,1799,373,1803,393,1802,414,1794,448,1789,446,1797,413,1798,393,1794,375,1784,355,1769,338"/>
+<area shape="rect" id="Node000027" href="$uhs_2twophase_2coordinator_2format_8hpp.html" title=" " alt="" coords="1860,374,1942,399"/>
+<area shape="poly" id="edge34_Node000023_Node000027" title=" " alt="" coords="1787,330,1876,371,1873,375,1785,335"/>
+<area shape="rect" id="Node000029" href="$twophase_2coordinator_2state__machine_8cpp.html" title=" " alt="" coords="1974,447,2105,473"/>
+<area shape="poly" id="edge39_Node000023_Node000029" title=" " alt="" coords="1810,321,1882,339,1920,354,1956,371,1980,389,2002,409,2033,445,2029,449,1998,413,1977,393,1953,376,1918,358,1880,345,1809,326"/>
+<area shape="poly" id="edge35_Node000027_Node000024" title=" " alt="" coords="1847,406,1694,449,1692,444,1845,401"/>
+<area shape="poly" id="edge37_Node000027_Node000026" title=" " alt="" coords="1870,410,1807,449,1804,444,1868,405"/>
+<area shape="rect" id="Node000028" href="$twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="1852,447,1950,473"/>
+<area shape="poly" id="edge36_Node000027_Node000028" title=" " alt="" coords="1904,414,1904,447,1898,447,1898,414"/>
+<area shape="poly" id="edge38_Node000027_Node000029" title=" " alt="" coords="1939,404,2017,444,2015,449,1936,409"/>
+<area shape="rect" id="Node000031" href="$twophase_2locking__shard_2controller_8cpp.html" title=" " alt="" coords="1337,374,1435,399"/>
+<area shape="poly" id="edge41_Node000030_Node000031" title=" " alt="" coords="1389,340,1389,373,1384,373,1384,340"/>
+<area shape="rect" id="Node000032" href="$locking__shardd_8cpp.html" title=" " alt="" coords="1460,374,1592,399"/>
+<area shape="poly" id="edge42_Node000030_Node000032" title=" " alt="" coords="1424,330,1504,371,1501,375,1422,335"/>
+<area shape="poly" id="edge44_Node000033_Node000023" title=" " alt="" coords="1656,257,1726,297,1723,302,1653,262"/>
+<area shape="rect" id="Node000034" href="$distributed__tx_8cpp.html" title=" " alt="" coords="1550,300,1673,326"/>
+<area shape="poly" id="edge45_Node000033_Node000034" title=" " alt="" coords="1620,267,1616,300,1610,299,1615,266"/>
+<area shape="poly" id="edge48_Node000036_Node000030" title=" " alt="" coords="1389,267,1389,300,1384,300,1384,267"/>
+</map>
